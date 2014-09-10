@@ -1,5 +1,5 @@
 {
-    "name": "rossriley/boltcomposer-webroot",
+    "name": "rossriley/boltcomposer-singleroot",
     "require": {
         "bolt/bolt": "dev-master"
     },
@@ -21,7 +21,7 @@
     },
     
     "extra":{
-        "bolt-web-dir": "./public"
+        "bolt-web-dir": "."
     },
     
     "autoload": {
