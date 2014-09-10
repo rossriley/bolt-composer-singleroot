@@ -5,7 +5,7 @@ public assets.
 
 To install:
 
-`composer create-project rossriley/boltcomposer-webroot mybolt-project dev-master`
+`composer create-project rossriley/boltcomposer-singleroot mybolt-project dev-master`
 
 
 Then navigate to `/bolt` and you should see the first user setup screen.
