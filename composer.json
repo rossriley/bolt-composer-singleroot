@@ -1,5 +1,7 @@
 {
     "name": "rossriley/boltcomposer-singleroot",
+    "description": "Handles an install of Bolt with web and Bolt assets in a single root.",
+    "license": "MIT",
     "require": {
         "bolt/bolt": "dev-master"
     },
